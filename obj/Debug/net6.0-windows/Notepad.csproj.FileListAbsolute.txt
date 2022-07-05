@@ -1,0 +1,17 @@
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\bin\Debug\net6.0-windows\Notepad.exe
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\bin\Debug\net6.0-windows\Notepad.deps.json
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\bin\Debug\net6.0-windows\Notepad.runtimeconfig.json
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\bin\Debug\net6.0-windows\Notepad.dll
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\bin\Debug\net6.0-windows\Notepad.pdb
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.AssemblyReference.cache
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\obj\Debug\net6.0-windows\Notepad.notepad.resources
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.GenerateResource.cache
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\obj\Debug\net6.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfoInputs.cache
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfo.cs
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.CoreCompileInputs.cache
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\obj\Debug\net6.0-windows\Notepad.dll
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\obj\Debug\net6.0-windows\refint\Notepad.dll
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\obj\Debug\net6.0-windows\Notepad.pdb
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\obj\Debug\net6.0-windows\Notepad.genruntimeconfig.cache
+D:\.Net Full Stack ITI\C# Advanced\Day 6\Notepad\obj\Debug\net6.0-windows\ref\Notepad.dll
